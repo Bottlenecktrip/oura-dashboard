@@ -1,0 +1,166 @@
+{
+ "polar_present": true,
+ "nights_compared": 1,
+ "metrics": [
+  {
+   "key": "sleep_total_h",
+   "label": "Time asleep",
+   "unit": "h",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 6.11,
+     "polar": 5.78
+    }
+   ],
+   "n": 1,
+   "oura_avg": 6.11,
+   "polar_avg": 5.78,
+   "consensus": 5.95,
+   "mad": 0.33,
+   "tolerance": 0.5,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "deep_h",
+   "label": "Deep sleep",
+   "unit": "h",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 0.99,
+     "polar": 1.2
+    }
+   ],
+   "n": 1,
+   "oura_avg": 0.99,
+   "polar_avg": 1.2,
+   "consensus": 1.09,
+   "mad": 0.21,
+   "tolerance": 0.3,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "rem_h",
+   "label": "REM sleep",
+   "unit": "h",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 0.87,
+     "polar": 1.17
+    }
+   ],
+   "n": 1,
+   "oura_avg": 0.87,
+   "polar_avg": 1.17,
+   "consensus": 1.02,
+   "mad": 0.3,
+   "tolerance": 0.3,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "light_h",
+   "label": "Light sleep",
+   "unit": "h",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 3.32,
+     "polar": 3.52
+    }
+   ],
+   "n": 1,
+   "oura_avg": 3.32,
+   "polar_avg": 3.52,
+   "consensus": 3.42,
+   "mad": 0.2,
+   "tolerance": 0.5,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "sleep_score",
+   "label": "Sleep score",
+   "unit": "",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 74.31,
+     "polar": 82.1
+    }
+   ],
+   "n": 1,
+   "oura_avg": 74.31,
+   "polar_avg": 82.1,
+   "consensus": 78.2,
+   "mad": 7.79,
+   "tolerance": 8,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "avg_hrv",
+   "label": "Avg HRV",
+   "unit": "ms",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 52.92,
+     "polar": 53.99
+    }
+   ],
+   "n": 1,
+   "oura_avg": 52.92,
+   "polar_avg": 53.99,
+   "consensus": 53.45,
+   "mad": 1.07,
+   "tolerance": 10,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "resting_hr",
+   "label": "Resting HR",
+   "unit": "bpm",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 56.2,
+     "polar": 59.72
+    }
+   ],
+   "n": 1,
+   "oura_avg": 56.2,
+   "polar_avg": 59.72,
+   "consensus": 57.96,
+   "mad": 3.52,
+   "tolerance": 5,
+   "confidence": "high",
+   "note": null
+  },
+  {
+   "key": "avg_breath",
+   "label": "Avg breathing rate",
+   "unit": "br/min",
+   "days": [
+    {
+     "date": "2026-07-03",
+     "oura": 15.25,
+     "polar": 14.64
+    }
+   ],
+   "n": 1,
+   "oura_avg": 15.25,
+   "polar_avg": 14.64,
+   "consensus": 14.95,
+   "mad": 0.61,
+   "tolerance": 1.0,
+   "confidence": "high",
+   "note": null
+  }
+ ]
+}
