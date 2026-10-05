@@ -32,7 +32,7 @@ export default function Home() {
       </div>
 
       <footer className="faint text-xs mt-8 text-center">
-        Built from your own Oura data · generated {data.generated} · runs locally, no token in this app.
+        Sample data shown · generated {data.generated} · runs locally, no token in this app.
       </footer>
     </main>
   );

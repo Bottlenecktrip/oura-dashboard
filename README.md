@@ -4,6 +4,8 @@ A dashboard I built for my own Oura Ring data, because the official app tells yo
 
 It pulls sleep, readiness and activity data and turns it into something you'd actually read: rings for the three daily scores, a full breakdown of last night's sleep with a zoomable hypnogram (drag across the deep sleep dip to see minute level heart rate and HRV), and a plain language explainer under every metric. Not just "HRV: 35ms" but what that number means for you specifically, compared against a healthy range and your own baseline. There's also a device check section that cross references Oura's numbers against a second wearable (Polar) on the same night, since I wanted to know how much to trust the ring on its own.
 
+Live demo with sample data: https://bottlenecktrip.github.io/oura-dashboard/
+
 Ships with representative sample data, so it runs and looks right straight out of the box. No ring, no account, no token needed. My actual data comes from a separate export script I run locally that never gets committed here.
 
 ## Stack
